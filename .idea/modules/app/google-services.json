@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "97631587167",
+    "firebase_url": "https://document-reader-3b0f1.firebaseio.com",
+    "project_id": "document-reader-3b0f1",
+    "storage_bucket": "document-reader-3b0f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97631587167:android:1840c389518f5b1870c4ea",
+        "android_client_info": {
+          "package_name": "com.deanthonee.documentreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97631587167-lph41l9empf74jqo8ls6p6daorfkfh48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deanthonee.documentreader",
+            "certificate_hash": "4fe6d494a971532422768263a4f9f20298e0b5fd"
+          }
+        },
+        {
+          "client_id": "97631587167-4ffml41ql363p400g2o9kvbgtlbqsvig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmMiBpEHEcKvGfetTsNaaLlNrKLcRVJ7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97631587167-4ffml41ql363p400g2o9kvbgtlbqsvig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
